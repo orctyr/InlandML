@@ -18,13 +18,13 @@ TrainingX.csv: genera abundance of training data. Each row represent one sample,
 
 TrainingY.csv: gene abundance of training data. Each row represent one sample, and each column represent one gene
 
-TrainingX.csv and TrainingY.csv should have the same rows.
+TrainingX.csv and TrainingY.csv should have the same number of rows.
 
 RealdataX.csv: genera abundance of testing data. Each row represent one sample, and each column represent one genus
 
 RealdataY.csv: gene abundance of testing data. Each row represent one sample, and each column represent one gene
 
-RealdataX.csv and RealdataY.csv should have the same rows.
+RealdataX.csv and RealdataY.csv should have the same number of rows.
 
 # pipeline usage
 Step1: Select important variables
